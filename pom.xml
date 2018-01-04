@@ -13,7 +13,7 @@
 <description>Python for Neo4J</description>
 
 <properties>
-    <neonsnake.version>0.2</neonsnake.version> <!-- This may need to be changed -->
+    <neonsnake.version>0.4.1</neonsnake.version> <!-- This may need to be changed -->
     <neo4j.version>3.2.6</neo4j.version>
 </properties>
 
