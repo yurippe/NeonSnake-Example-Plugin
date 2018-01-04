@@ -29,6 +29,11 @@ public class ExamplePlugin implements NeonPlugin, RESTPluginListener {
     }
 
     @Override
+    public void afterInit() {
+        provider.getLogger().info("Called afterInit in External ExamplePlugin");
+    }
+
+    @Override
     public void stop() {
         provider.getLogger().info("Called stop in External ExamplePlugin");
     }

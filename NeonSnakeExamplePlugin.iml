@@ -104,9 +104,9 @@
     <orderEntry type="library" name="Maven: org.neo4j.3rdparty.javax.ws.rs:jsr311-api:1.1.2.r612" level="project" />
     <orderEntry type="library" name="Maven: javax.servlet:javax.servlet-api:3.1.0" level="project" />
     <orderEntry type="module-library">
-      <library name="Maven: dk.atomit:NeonSnake:0.2">
+      <library name="Maven: dk.atomit:NeonSnake:0.5.0">
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/libs/NeonSnake-0.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/NeonSnake-0.5.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

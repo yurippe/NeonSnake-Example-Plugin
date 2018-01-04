@@ -6,14 +6,14 @@
 
 <groupId>dk.atomit.NeonSnake.Examples</groupId>
 <artifactId>ExamplePlugin</artifactId>
-<version>1.0</version>
+<version>1.1</version>
 
 <packaging>jar</packaging>
 <name>NeonSnake</name>
 <description>Python for Neo4J</description>
 
 <properties>
-    <neonsnake.version>0.2</neonsnake.version> <!-- This may need to be changed -->
+    <neonsnake.version>0.5.0</neonsnake.version> <!-- This may need to be changed -->
     <neo4j.version>3.2.6</neo4j.version>
 </properties>
 
